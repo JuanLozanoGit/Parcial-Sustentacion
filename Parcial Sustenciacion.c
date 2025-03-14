@@ -90,5 +90,5 @@ int main() {
     mostrarGraficas("Gráfico de Factorial Recursivo", valores_n, num_valores, 'R');
     mostrarGraficas("Gráfico de Fibonacci Iterativo", valores_n, num_valores, 'F');
 
-    return 0; // Fin del programa
+    return 0; // Fin del programa   Nota:  1 asterisco = 0.001 segundos (1 ms)
 }
